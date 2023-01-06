@@ -1,0 +1,15 @@
+h1
+{
+    font-size: 50px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+body
+{
+    background-color: blueviolet;
+}
